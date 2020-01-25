@@ -4,7 +4,6 @@
 #
 %define		pdir	Test
 %define		pnam	RequiresInternet
-%include	/usr/lib/rpm/macros.perl
 Summary:	Test::RequiresInternet - Easily test network connectivity
 Summary(pl.UTF-8):	Test::RequiresInternet - łatwe sprawdzanie połączenia z siecią
 Name:		perl-Test-RequiresInternet
